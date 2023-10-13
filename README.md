@@ -9,6 +9,8 @@
 
 Translate is a Python application that simplifies the process of translating text from one language to another using the Google Translate API. This open-source tool provides an easy-to-use graphical user interface for users to input text, select source and destination languages, and obtain translations quickly.
 
+![Screenshot 2023-10-13 041849](https://github.com/elektronoide/Translate/assets/134635227/f790159a-7707-4686-975c-f878c83875e3)
+
 ## Features
 
 - Text Translation: Easily translate text from one language to another.
@@ -59,7 +61,7 @@ For questions or inquiries about Process Monitor, you can reach out to the autho
 
 Enjoy using Translate for your translation needs!
 
-# Process Monitor
+# Translate
 
 **Autore:** Bocaletto Luca
 
@@ -68,6 +70,8 @@ Enjoy using Translate for your translation needs!
 ## Panoramica
 
 Process Monitor è un'applicazione Python che semplifica il processo di traduzione di testo da una lingua all'altra utilizzando l'API di Google Translate. Questo strumento open source fornisce un'interfaccia utente grafica facile da usare per consentire agli utenti di inserire testo, selezionare lingue di origine e destinazione e ottenere traduzioni in modo rapido.
+
+![Screenshot 2023-10-13 041031](https://github.com/elektronoide/Translate/assets/134635227/3060fb9b-471b-4803-8b2f-397df05ce590)
 
 ## Caratteristiche
 
