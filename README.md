@@ -34,7 +34,7 @@ Translate is a Python application that simplifies the process of translating tex
 
 ## Language Support
 
-Process Monitor supports the following languages:
+Translate supports the following languages:
 - English (en)
 - Spanish (es)
 - French (fr)
@@ -69,7 +69,7 @@ Enjoy using Translate for your translation needs!
 
 ## Panoramica
 
-Process Monitor è un'applicazione Python che semplifica il processo di traduzione di testo da una lingua all'altra utilizzando l'API di Google Translate. Questo strumento open source fornisce un'interfaccia utente grafica facile da usare per consentire agli utenti di inserire testo, selezionare lingue di origine e destinazione e ottenere traduzioni in modo rapido.
+Translate è un'applicazione Python che semplifica il processo di traduzione di testo da una lingua all'altra utilizzando l'API di Google Translate. Questo strumento open source fornisce un'interfaccia utente grafica facile da usare per consentire agli utenti di inserire testo, selezionare lingue di origine e destinazione e ottenere traduzioni in modo rapido.
 
 ![Screenshot 2023-10-13 041031](https://github.com/elektronoide/Translate/assets/134635227/3060fb9b-471b-4803-8b2f-397df05ce590)
 
@@ -96,7 +96,7 @@ Process Monitor è un'applicazione Python che semplifica il processo di traduzio
 
 ## Supporto linguistico
 
-Process Monitor supporta le seguenti lingue:
+Translate supporta le seguenti lingue:
 - Inglese (en)
 - Spagnolo (es)
 - Francese (fr)
@@ -117,7 +117,7 @@ Sentiti libero di contribuire a questo progetto inviando problemi o richieste di
 
 ## Contatti
 
-Per domande o informazioni su Process Monitor, puoi contattare l'autore, Bocaletto Luca, puoi trovarmi su https://www.elektronoide.it.
+Per domande o informazioni su Translate, puoi contattare l'autore, Bocaletto Luca, puoi trovarmi su https://www.elektronoide.it.
 
 ---
 
