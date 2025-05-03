@@ -1,9 +1,11 @@
 # Translate
-**Author:** Bocaletto Luca
 
-**Web Site:** https://www.elektronoide.it
+**Autore:** Bocaletto Luca
 
-**License:** GPLv3
+**Language:** Python
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-GPLv3-green)
 
 ## Overview
 
@@ -60,65 +62,3 @@ For questions or inquiries about Process Monitor, you can reach out to the autho
 ---
 
 Enjoy using Translate for your translation needs!
-
-# Translate
-
-**Autore:** Bocaletto Luca
-
-**Licenza:** GPLv3
-
-## Panoramica
-
-Translate è un'applicazione Python che semplifica il processo di traduzione di testo da una lingua all'altra utilizzando l'API di Google Translate. Questo strumento open source fornisce un'interfaccia utente grafica facile da usare per consentire agli utenti di inserire testo, selezionare lingue di origine e destinazione e ottenere traduzioni in modo rapido.
-
-![Screenshot 2023-10-13 041031](https://github.com/elektronoide/Translate/assets/134635227/3060fb9b-471b-4803-8b2f-397df05ce590)
-
-## Caratteristiche
-
-- Traduzione di testo: Traduci facilmente il testo da una lingua all'altra.
-- Interfaccia utente intuitiva: GUI intuitiva per la traduzione del testo senza problemi.
-- Opzioni di lingua: Supporta una varietà di lingue di origine e destinazione.
-- Gestione degli errori: Fornisce messaggi di errore informativi in caso di problemi di traduzione.
-
-## Per iniziare
-
-## Uso
-
-1. Inserisci il testo che desideri tradurre nella casella di testo di input.
-
-2. Seleziona la lingua di origine dal menu a discesa "Lingua di origine".
-
-3. Scegli la lingua di destinazione dal menu a discesa "Lingua di destinazione".
-
-4. Fai clic sul pulsante "Traduci".
-
-5. Il testo tradotto apparirà nella casella di testo di output.
-
-## Supporto linguistico
-
-Translate supporta le seguenti lingue:
-- Inglese (en)
-- Spagnolo (es)
-- Francese (fr)
-- Tedesco (de)
-- Italiano (it)
-- Giapponese (ja)
-- Coreano (ko)
-- Cinese (Semplificato) (zh-CN)
-- Russo (ru)
-
-## Licenza
-
-Questo software è distribuito in base alla [Licenza Pubblica Generale GNU versione 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html). Sei libero di utilizzare, modificare e distribuire questo software in conformità con i termini della licenza.
-
-## Contributi
-
-Sentiti libero di contribuire a questo progetto inviando problemi o richieste di pull. Le tue contribuzioni sono benvenute e apprezzate.
-
-## Contatti
-
-Per domande o informazioni su Translate, puoi contattare l'autore, Bocaletto Luca, puoi trovarmi su https://www.elektronoide.it.
-
----
-
-Goditi l'uso di Translate per le tue esigenze di traduzione!
