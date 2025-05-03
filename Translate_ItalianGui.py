@@ -1,4 +1,4 @@
-# Name Software: Translate GUI Italian
+# Name Software: Translate
 # Author: Bocaletto Luca
 # License: GPLv3
 import tkinter as tk
