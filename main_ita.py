@@ -1,6 +1,7 @@
 # Name Software: Translate
 # Author: Bocaletto Luca
 # License: GPLv3
+# Language: Italian
 import tkinter as tk
 from tkinter import ttk
 from googletrans import Translator
