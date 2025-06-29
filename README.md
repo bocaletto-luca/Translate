@@ -62,3 +62,11 @@ For questions or inquiries about Process Monitor, you can reach out to the autho
 ---
 
 Enjoy using Translate for your translation needs!
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
